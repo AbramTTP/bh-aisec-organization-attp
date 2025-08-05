@@ -16,7 +16,7 @@
             }
         },
         {
-            "name": "docker.io/captjohnwickprice/bh-aisec-model-inference-attp",
+            "name": "docker.io/captjohnwickprice/bh-aisec-model-attp-inference",
             "environment": {
                 "any_of": [
                     "prod"
