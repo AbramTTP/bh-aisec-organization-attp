@@ -1,7 +1,7 @@
 {
     "format":1,
     "package": {
-        "name":"docker.io/captjohnwickprice/bh-aisec-model-inference",
+        "name":"docker.io/captjohnwickprice/bh-aisec-model-inference-attp",
         "environment":{
             "any_of": [
                 "staging", "prod"
